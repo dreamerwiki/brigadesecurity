@@ -1,0 +1,47 @@
+
+---Downloaded files---
+The import files for: Business were successfully downloaded!
+Initial max execution time = 18000
+Files info:
+Site URL = http://localhost/test/brigadesecurity
+Data file = /var/www/html/test/brigadesecurity/wp-content/uploads/2019/07/demo-content-import-file_2019-07-04__08-17-41.xml
+Widget file = /var/www/html/test/brigadesecurity/wp-content/uploads/2019/07/demo-widgets-import-file_2019-07-04__08-17-41.json
+Customizer file = /var/www/html/test/brigadesecurity/wp-content/uploads/2019/07/demo-customizer-import-file_2019-07-04__08-17-41.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Image - No Title - Widget already exists
+Custom HTML - No Title - Widget already exists
+
+Footer 2 : 
+
+Navigation Menu - About Us - Widget already exists
+
+Footer 3 : 
+
+Navigation Menu - Services - Widget already exists
+
+Footer 4 : 
+
+Custom HTML - Contact Us - Widget already exists
+Airi: Social Profile - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,62 @@
+
+---Downloaded files---
+The import files for: Business were successfully downloaded!
+Initial max execution time = 18000
+Files info:
+Site URL = http://localhost/test/brigadesecurity
+Data file = /var/www/html/test/brigadesecurity/wp-content/uploads/2019/07/demo-content-import-file_2019-07-04__08-07-19.xml
+Widget file = /var/www/html/test/brigadesecurity/wp-content/uploads/2019/07/demo-widgets-import-file_2019-07-04__08-07-19.json
+Customizer file = /var/www/html/test/brigadesecurity/wp-content/uploads/2019/07/demo-customizer-import-file_2019-07-04__08-07-19.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Image - No Title - Imported
+Custom HTML - No Title - Imported
+
+Footer 2 : 
+
+Navigation Menu - About Us - Imported
+
+Footer 3 : 
+
+Navigation Menu - Services - Imported
+
+Footer 4 : 
+
+Custom HTML - Contact Us - Imported
+Airi: Social Profile - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
